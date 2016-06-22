@@ -4,19 +4,19 @@
 Todo projeto deverá seguir esta estrutura de pastas abaixo.
 ```
 ├── resources/
-    ├── main.scss
     ├── js/
     ├── css/
+        ├── main.scss
         ├── settings/
             ├── _settings.scss
             ├── _tools.scss
-      ├── base/
-          ├── _generic.scss
-          ├── _base.scss
-      ├── components/
-          ├── _component-1.scss
-          ├── _component-2.scss
-          ├── _component-N.scss
+            ├── base/
+                ├── _generic.scss
+                ├── _base.scss
+            ├── components/
+                ├── _component-1.scss
+                ├── _component-2.scss
+                ├── _component-N.scss
     ├── fonts/
     ├── images/
 ```
