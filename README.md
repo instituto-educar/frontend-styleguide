@@ -85,3 +85,12 @@ Aqui deve estar a estilização generica e a base do projeto.
 ####components/
 
 Aqui vão ficar os componentes que serão reutilizados no projeto.
+
+*Lembre-se de adicionar o '_' (underline) como prefixo no arquivo*
+
+### Nomeclatura de classes
+
+- O nome da classe deverá ser coerente com a função que o elemento exerce.
+- Evite criar classes com nome muito grande.
+- Pense de forma escalável e reutilizável
+- Ao criar um componente, evite definir propriedades do tipo *position, top, left, float, margin*
