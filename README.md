@@ -8,7 +8,7 @@ Todo projeto deverá seguir esta estrutura de pastas abaixo.
     ├── css/
         ├── main.scss
         ├── settings/
-            ├── _settings.scss
+            ├── _variables.scss
             ├── _tools.scss
         ├── base/
             ├── _generic.scss
@@ -32,7 +32,7 @@ Não pode conter estilização dentro do arquivo, apenas imports.
 
   @import "base/generic";
   @import "base/base";
-  
+
   @import "components/component-1";
   @import "components/component-2";
 ```
@@ -43,7 +43,7 @@ Aqui devem estar as configurações e ferramentas utilizadas no projeto.
 
 *Exemplo:*
 
-**_settings.scss**
+**_variables.scss**
 ```scss
   //Em geral são as variáveis globais que vão definir cores, espaçamentos e outras configurações desejadas
   $default_bg: #BADA55;
