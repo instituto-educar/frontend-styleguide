@@ -27,12 +27,14 @@ Não pode conter estilização dentro do arquivo, apenas imports.
 
 **main.scss**
 ```scss
-  @import "settings/_settings";
-  @import "settings/_tools";
-  @import "base/_generic";
-  @import "base/_base";
-  @import "components/_component-1";
-  @import "components/_component-2";
+  @import "settings/variables";
+  @import "settings/tools";
+
+  @import "base/generic";
+  @import "base/base";
+  
+  @import "components/component-1";
+  @import "components/component-2";
 ```
 
 ####settings/
