@@ -96,3 +96,5 @@ Aqui vão ficar os componentes que serão reutilizados no projeto.
 - Evite criar classes com nome muito grande.
 - Pense de forma escalável e reutilizável
 - Ao criar um componente, evite definir propriedades do tipo *position, top, left, float, margin*
+
+*Obs.: Alguns projetos podem não seguir por completo este guia. Porém, deve-se basear nele.
