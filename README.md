@@ -102,8 +102,3 @@ Aqui vão ficar os componentes que serão reutilizados no projeto.
 ### Comentário
 
 -Os arquivos estruturais do projeto html/css/js, devem conter comentários para melhor comunicação interna. 
-Ex:
-
-<!-- begin Conteudo geral -->
-.container{}
-<!-- Conteudo geral end -->
