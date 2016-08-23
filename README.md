@@ -98,3 +98,12 @@ Aqui vão ficar os componentes que serão reutilizados no projeto.
 - Ao criar um componente, evite definir propriedades do tipo *position, top, left, float, margin*
 
 *Obs.: Alguns projetos podem não seguir por completo este guia. Porém, deve-se basear nele.
+
+### Comentário
+
+-Os arquivos estruturais do projeto html/css/js, devem conter comentários para melhor comunicação interna. 
+Ex:
+
+<!-- begin Conteudo geral -->
+.container{}
+<!-- Conteudo geral end -->
